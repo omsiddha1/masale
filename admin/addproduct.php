@@ -240,7 +240,7 @@ $search_value = "";
   											<h5>Product Code:</h5>
   											</div>
 												<td>
-												<input name="code" id="password-1" style="margin-left: 60px;   required="required"  placeholder="Code" class="password signupbox " type="text" size="30" value="'.$pCode.'">
+												<input name="code" id="password-1" style="margin-left: 60px; color: black;" required="required" placeholder="Code" class="password signupbox" type="text" size="30" value="' . $pCode . '">
 												</td>
 											</div></br>
 											
